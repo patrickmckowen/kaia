@@ -1,0 +1,9 @@
+**/DerivedData/**
+**/build/**
+**/.build/**
+**/*.xcuserstate
+**/*.xcuserdata/**
+**/.DS_Store
+kaia.xcodeproj/**
+kaia.xcodeproj/project.xcworkspace/**
+# Add directories or file patterns to ignore during indexing (e.g. foo/ or *.csv)
